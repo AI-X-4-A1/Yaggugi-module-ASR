@@ -1,15 +1,15 @@
 # Yaggugi-module-ASR
 
-https://img.shields.io/badge/Python-v3.12.7-3776AB?style=for-the-badge&logo=python&logoColor=white
+![Python]https://img.shields.io/badge/Python-v3.12.7-3776AB?style=for-the-badge&logo=python&logoColor=white
 
-https://img.shields.io/badge/PyTorch-v2.5.1-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
+![PyTorch]https://img.shields.io/badge/PyTorch-v2.5.1-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
 
-https://img.shields.io/badge/FastAPI-v0.115.4-009688?style=for-the-badge&logo=fastapi&logoColor=white
+![FastAPI]https://img.shields.io/badge/FastAPI-v0.115.4-009688?style=for-the-badge&logo=fastapi&logoColor=white
 
 > 약국이는 내 몸에 맞는 영양제를 추천하고, 섭취 일정을 손쉽게 관리하는 맞춤형 건강 앱 입니다.
-> 
 
-```python
+
+```bash
 <!-- 실행방법 -->
 git clone https://github.com/AI-X-4-A1/Yaggugi-module-ASR.git
 
@@ -50,10 +50,16 @@ begin_fastAPI/
 
 ## 🩺 **Stack**
 
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+![GitHub]https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
 
-https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+![Docker]https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
 
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+![Python]https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 
-https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
+![PyTorch]https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
+
+![Llama](https://img.shields.io/badge/Llama-7289DA?style=for-the-badge&logo=llama&logoColor=white)
+
+![Whisper](https://img.shields.io/badge/Whisper-5A9?style=for-the-badge&logo=whisper&logoColor=white)
+
+
