@@ -52,7 +52,7 @@ begin_fastAPI/
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LLama38b](https://img.shields.io/badge/LLama38b-7289DA?style=for-the-badge&logo=llama&logoColor=white)
+![LLama](https://img.shields.io/badge/LLama38b-7289DA?style=for-the-badge&logo=llama&logoColor=white)
 ![Whisper](https://img.shields.io/badge/Whisper-5A9?style=for-the-badge&logo=whisper&logoColor=white)
 
 
